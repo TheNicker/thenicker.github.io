@@ -1,0 +1,73 @@
+.delay1
+{
+     animation-delay:1.0s; 
+}
+.delay2
+{
+     animation-delay:1.4s; 
+}
+.delay3
+{
+     animation-delay:1.8s; 
+}
+
+ .card-image > .fas {
+    font-size: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    color: #209cee;
+    -webkit-text-stroke: 2px black;
+    
+  }
+  
+  .card-image > .fab {
+    font-size: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    color: #209cee;
+    -webkit-text-stroke: 2px black;
+    color: white;
+  } 
+  
+     .movie_shade
+    {
+      box-shadow:0.2rem 0.2rem 3rem 0.3rem grey;
+      height:  23rem; 
+    } 
+  
+   .is-shady {
+   
+  background: #fff;
+  box-shadow: rgba(0, 0, 0, .1) 0 1px 0;
+  border-radius: 4px;
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+  transition: all .1s ease-in-out;
+  } 
+  
+   .is-shady:hover {
+  box-shadow: 0 10px 16px 8px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
+  } 
+
+  
+
+  .fa-check
+  {
+     
+     align-content: center;
+     color: rgba(0, 150, 0, 1.0) ;
+     text-align: center ;
+  }
+
+  .fa-times
+  {
+     color: rgba(200, 0, 0, 1.0) ;
+  }
+  
+  @font-face {
+     font-family: "CustomFont";
+     src: url("../resources/OldSport01CollegeNcv-aeGm.ttf");
+  }
+     
+     
